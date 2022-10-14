@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MiListView</string>
+    <string-array name="frutas">
+        <item>Manzana</item>
+        <item>Naranja</item>
+        <item>Platano</item>
+        <item>Pera</item>
+        <item>Melocoton</item>
+        <item>Piña</item>
+        <item>Mango</item>
+        <item>Coco</item>
+        <item>Melon</item>
+        <item>Cereza</item>
+        <item>Sandia</item>
+        <item>Mandarina</item>
+        <item>Uva</item>
+        <item>Baya</item>
+    </string-array>
+</resources>
